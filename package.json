@@ -1,0 +1,24 @@
+{
+  "name": "is-hex-color-code",
+  "version": "1.0.0",
+  "description": "A package to validate hexadecimal color codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/is-hex-color-code.git"
+  },
+  "keywords": [
+    "hex",
+    "color",
+    "validation"
+  ],
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/is-hex-color-code/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/is-hex-color-code#readme"
+}
